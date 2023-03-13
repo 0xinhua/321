@@ -46,7 +46,7 @@ Hi，见信好，新年快乐，这是 321来信发出的第 25 封信。
 
 👍 推荐
 
-[The End of Social Media and the Rise of Recommendation Media](https://mignano.medium.com/the-end-of-social-media-a88ffed21f86) - Michael Mignano
+ [📃 The End of Social Media and the Rise of Recommendation Media](https://mignano.medium.com/the-end-of-social-media-a88ffed21f86) - Michael Mignano
 
 社交媒体正在转变为推荐媒体，Facebook 将变得越来越像 TikTok， Facebook 的主频道将像 TikTok 一样，开始大量推荐帖子，而不是优先考虑人们关注的账户的帖子，无论它们来自哪里，在那里你看不到你朋友的内容，只看到别人点赞的内容。在社交媒体中，人们会看到来自朋友的内容，而不管内容的质量如何，而在推荐媒体中，内容分发针对参与度进行优化，平台决定什么内容在什么时间阶段流行，平台始终占据主导地位。这也是为什么 ins 网红 (Kylie Jenner) 可以说是世界上最有影响力的社交媒体用户之一，她最近发帖表达了她对 Instagram 将推荐视频优先于朋友照片的不满，在基于算法而非追随者主导的版本中，她在 Instagram 上超过 3.6 亿的追随者根本不值钱​​。另外由算法主导的平台提供了更多的方式来隐藏不需要展示的内容，从而减少对大规模审核团队的需求
 
